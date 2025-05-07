@@ -12,8 +12,8 @@ const articles = [
     title: 'Learn',
     subtitle: 'Preparing for Life',
     icon: '/icons/learn.svg',
-    description: 'The foundation stage in life\'s four-part journey, focused on holistic preparation. This phase centers on acquiring knowledge and developing character—building intellectual understanding while cultivating self-discipline.\n\nIn Svarupa\'s "Learn" section, discover practical wisdom about human nature, evolutionary cycles, and emotional intelligence. Our articles provide actionable strategies for managing life\'s challenges while establishing the groundwork for a purposeful existence. This crucial interval builds the intellectual and moral foundation necessary for the growth phases that follow.',
-    content: 'In Svarupa\'s "Learn" section, we explore how timeless wisdom can be applied to contemporary challenges. The ancient texts contain insights that transcend cultural and historical contexts, offering practical guidance for navigating our complex modern world. The Bhagavad Gita, for instance, provides profound teachings on duty, purpose, and right action that remain remarkably relevant today. Through careful study and reflection, these ancient principles become practical tools for everyday decision-making and long-term personal development.',
+    description: 'The foundation stage in life&apos;s four-part journey, focused on holistic preparation. This phase centers on acquiring knowledge and developing character—building intellectual understanding while cultivating self-discipline.\n\nIn Svarupa&apos;s &quot;Learn&quot; section, discover practical wisdom about human nature, evolutionary cycles, and emotional intelligence. Our articles provide actionable strategies for managing life&apos;s challenges while establishing the groundwork for a purposeful existence. This crucial interval builds the intellectual and moral foundation necessary for the growth phases that follow.',
+    content: 'In Svarupa&apos;s &quot;Learn&quot; section, we explore how timeless wisdom can be applied to contemporary challenges. The ancient texts contain insights that transcend cultural and historical contexts, offering practical guidance for navigating our complex modern world. The Bhagavad Gita, for instance, provides profound teachings on duty, purpose, and right action that remain remarkably relevant today. Through careful study and reflection, these ancient principles become practical tools for everyday decision-making and long-term personal development.',
     image: '/svarupa-logo.svg'
   },
   {
@@ -21,8 +21,8 @@ const articles = [
     title: 'Grow',
     subtitle: 'Expanding Awareness',
     icon: '/icons/grow.svg',
-    description: 'Life unfolds through four distinct phases: studentship, household life, introspection, and wisdom manifestation. The second interval, represented in Svarupa’s "Grow" section, is dedicated to experiencing life in its fullest form. This stage focuses on relationships, career development, societal contribution, and financial responsibility. Marriage, in this context, extends beyond partnership—it is a spiritual alliance that fosters companionship and mutual growth.\n\nThis period serves as a testing ground where theoretical knowledge is applied through real-world experiences. Articles in this section guide readers on how to maintain righteous living amidst distractions, balance individual aspirations with societal duties, and navigate human interactions with wisdom. This phase is essential for transforming knowledge into lived wisdom, equipping individuals to transition into deeper introspection in the next stage.',
-    content: 'Svarupa\'s "Grow" section focuses on the deliberate cultivation of qualities that lead to greater awareness and emotional intelligence. Through guided practices and reflective exercises, we develop the capacity to observe our thoughts and emotions with increasing clarity. This expansion of consciousness allows us to perceive reality more accurately and respond to life with greater wisdom and compassion. The journey of growth involves recognizing our conditioned patterns and consciously choosing more enlightened ways of being. This process unfolds naturally when we remain open to new insights and commit to consistent practice.',
+    description: 'Life unfolds through four distinct phases: studentship, household life, introspection, and wisdom manifestation. The second interval, represented in Svarupa&apos;s &quot;Grow&quot; section, is dedicated to experiencing life in its fullest form. This stage focuses on relationships, career development, societal contribution, and financial responsibility. Marriage, in this context, extends beyond partnership—it is a spiritual alliance that fosters companionship and mutual growth.\n\nThis period serves as a testing ground where theoretical knowledge is applied through real-world experiences. Articles in this section guide readers on how to maintain righteous living amidst distractions, balance individual aspirations with societal duties, and navigate human interactions with wisdom. This phase is essential for transforming knowledge into lived wisdom, equipping individuals to transition into deeper introspection in the next stage.',
+    content: 'Svarupa&apos;s &quot;Grow&quot; section focuses on the deliberate cultivation of qualities that lead to greater awareness and emotional intelligence. Through guided practices and reflective exercises, we develop the capacity to observe our thoughts and emotions with increasing clarity. This expansion of consciousness allows us to perceive reality more accurately and respond to life with greater wisdom and compassion. The journey of growth involves recognizing our conditioned patterns and consciously choosing more enlightened ways of being. This process unfolds naturally when we remain open to new insights and commit to consistent practice.',
     image: '/svarupa-logo.svg'
   },
   {
@@ -30,8 +30,8 @@ const articles = [
     title: 'Reflect',
     subtitle: 'Inner Examination',
     icon: '/icons/reflect.svg',
-    description: 'The third phase of life marks a shift toward introspection and detachment from worldly attachments. Until this stage, life has revolved around personal ambitions, family responsibilities, and professional commitments. Now, individuals begin to redirect their accumulated wisdom toward broader service and self-exploration.\n\nIn Svarupa’s "Reflect" section, articles focus on themes of self-examination, letting go of long-held beliefs, and engaging with philosophical traditions that illuminate life’s deeper meaning. Readers will explore how to refine their responses to challenges, consciously loosen attachments, and cultivate a mindset of altruism that extends beyond family into the larger world. This phase fosters resilience and faith, preparing individuals for the final stage of wisdom embodiment. Through reflection and detachment, one gains the ability to embrace life with a broader perspective, finding fulfillment not in material success but in inner clarity and peace.',
-    content: 'In Svarupa\'s "Reflect" section, we explore the art of self-inquiry and contemplative practice. By turning our attention inward, we begin to recognize the subtle patterns of thought and behavior that shape our experience. Through consistent contemplative practice, we develop the ability to observe our mental processes with greater objectivity and discernment. This inner examination leads to profound insights about our true nature and helps us align our outer actions with our deepest values. The reflective journey reveals how many of our limitations are self-imposed and opens the door to greater freedom and authenticity in all aspects of life.',
+    description: 'The third phase of life marks a shift toward introspection and detachment from worldly attachments. Until this stage, life has revolved around personal ambitions, family responsibilities, and professional commitments. Now, individuals begin to redirect their accumulated wisdom toward broader service and self-exploration.\n\nIn Svarupa&apos;s &quot;Reflect&quot; section, articles focus on themes of self-examination, letting go of long-held beliefs, and engaging with philosophical traditions that illuminate life&apos;s deeper meaning. Readers will explore how to refine their responses to challenges, consciously loosen attachments, and cultivate a mindset of altruism that extends beyond family into the larger world. This phase fosters resilience and faith, preparing individuals for the final stage of wisdom embodiment. Through reflection and detachment, one gains the ability to embrace life with a broader perspective, finding fulfillment not in material success but in inner clarity and peace.',
+    content: 'In Svarupa&apos;s &quot;Reflect&quot; section, we explore the art of self-inquiry and contemplative practice. By turning our attention inward, we begin to recognize the subtle patterns of thought and behavior that shape our experience. Through consistent contemplative practice, we develop the ability to observe our mental processes with greater objectivity and discernment. This inner examination leads to profound insights about our true nature and helps us align our outer actions with our deepest values. The reflective journey reveals how many of our limitations are self-imposed and opens the door to greater freedom and authenticity in all aspects of life.',
     image: '/svarupa-logo.svg'
   },
   {
@@ -39,8 +39,8 @@ const articles = [
     title: 'Renew',
     subtitle: 'Daily Practices',
     icon: '/icons/renew.svg',
-    description: 'The fourth and final phase of life is about integrating accumulated wisdom into daily existence. Unlike earlier stages focused on ambition and duty, this period is about conscious engagement with life, free from attachment to outcomes. It is a time for cultivating balance, peace, and selfless service.\n\nIn Svarupa’s "Renew" section, articles emphasize the importance of simplicity, emotional stability, and the expansion of personal awareness into universal consciousness. Readers will explore topics such as unconditional love, inner freedom, and the transition from self-centered awareness to a state of harmony with all existence.\n\nTransitioning into this phase can be challenging, as it requires letting go of long-held identities and attachments. However, once these barriers are overcome, profound liberation follows. The articles guide individuals in embodying spiritual insights, showing how to become living examples of peace and wisdom. By demonstrating that fulfillment comes from within, this section inspires others to see that a well-lived life is one rooted in clarity, compassion, and tranquility.',
-    content: 'The fourth and final phase of life is about integrating accumulated wisdom into daily existence. Unlike earlier stages focused on ambition and duty, this period is about conscious engagement with life, free from attachment to outcomes. It is a time for cultivating balance, peace, and selfless service.\n\nIn Svarupa\'s "Renew" section, articles emphasize the importance of simplicity, emotional stability, and the expansion of personal awareness into universal consciousness. Readers will explore topics such as unconditional love, inner freedom, and the transition from self-centered awareness to a state of harmony with all existence.\n\nTransitioning into this phase can be challenging, as it requires letting go of long-held identities and attachments. However, once these barriers are overcome, profound liberation follows. The articles guide individuals in embodying spiritual insights, showing how to become living examples of peace and wisdom. By demonstrating that fulfillment comes from within, this section inspires others to see that a well-lived life is one rooted in clarity, compassion, and tranquility.',
+    description: 'The fourth and final phase of life is about integrating accumulated wisdom into daily existence. Unlike earlier stages focused on ambition and duty, this period is about conscious engagement with life, free from attachment to outcomes. It is a time for cultivating balance, peace, and selfless service.\n\nIn Svarupa&apos;s &quot;Renew&quot; section, articles emphasize the importance of simplicity, emotional stability, and the expansion of personal awareness into universal consciousness. Readers will explore topics such as unconditional love, inner freedom, and the transition from self-centered awareness to a state of harmony with all existence.\n\nTransitioning into this phase can be challenging, as it requires letting go of long-held identities and attachments. However, once these barriers are overcome, profound liberation follows. The articles guide individuals in embodying spiritual insights, showing how to become living examples of peace and wisdom. By demonstrating that fulfillment comes from within, this section inspires others to see that a well-lived life is one rooted in clarity, compassion, and tranquility.',
+    content: 'The fourth and final phase of life is about integrating accumulated wisdom into daily existence. Unlike earlier stages focused on ambition and duty, this period is about conscious engagement with life, free from attachment to outcomes. It is a time for cultivating balance, peace, and selfless service.\n\nIn Svarupa&apos;s &quot;Renew&quot; section, articles emphasize the importance of simplicity, emotional stability, and the expansion of personal awareness into universal consciousness. Readers will explore topics such as unconditional love, inner freedom, and the transition from self-centered awareness to a state of harmony with all existence.\n\nTransitioning into this phase can be challenging, as it requires letting go of long-held identities and attachments. However, once these barriers are overcome, profound liberation follows. The articles guide individuals in embodying spiritual insights, showing how to become living examples of peace and wisdom. By demonstrating that fulfillment comes from within, this section inspires others to see that a well-lived life is one rooted in clarity, compassion, and tranquility.',
     image: '/svarupa-logo.svg'
   },
   {
@@ -48,8 +48,8 @@ const articles = [
     title: 'Practice',
     subtitle: 'Applied Wisdom',
     icon: '/icons/practice.svg',
-    description: 'The process of learning is incomplete without direct application. The Practice section represents a crucial phase in personal development, offering structured exercises that help individuals deepen their understanding of themselves and the world around them. These exercises are designed to bring clarity to natural tendencies, emotional responses, and the challenges that arise in daily life. By engaging in focused practices, individuals gain greater awareness of their inner workings—how the body, mind, and emotions interact—and develop the skills to navigate common disturbances such as anxiety, anger, and distraction. This phase is not just about problem-solving but about cultivating resilience and balance, allowing individuals to move through life with greater ease and self-mastery. In the Svarupa framework, the Practice section serves as a bridge between knowledge and experience, providing practical tools that refine awareness and deepen one’s connection to their own nature.',
-    content: 'In Svarupa\'s "Practice" section, we explore how spiritual understanding becomes embodied through consistent application. The intellectual grasp of spiritual principles, while valuable, must be complemented by direct experience. Through meditation, service, devotion, and other traditional practices, we gradually integrate higher truths into our being. This applied wisdom manifests as greater equanimity, compassion, and clarity in our daily interactions.\n\nThe path of practice transforms abstract concepts into living realities, allowing us to embody the very qualities we seek to develop. Each practice serves as a laboratory for self-discovery, revealing both our limitations and our untapped potential. Through regular engagement with these time-tested methods, we cultivate the inner conditions necessary for profound transformation and authentic spiritual growth.',
+    description: 'The process of learning is incomplete without direct application. The Practice section represents a crucial phase in personal development, offering structured exercises that help individuals deepen their understanding of themselves and the world around them. These exercises are designed to bring clarity to natural tendencies, emotional responses, and the challenges that arise in daily life. By engaging in focused practices, individuals gain greater awareness of their inner workings—how the body, mind, and emotions interact—and develop the skills to navigate common disturbances such as anxiety, anger, and distraction. This phase is not just about problem-solving but about cultivating resilience and balance, allowing individuals to move through life with greater ease and self-mastery. In the Svarupa framework, the Practice section serves as a bridge between knowledge and experience, providing practical tools that refine awareness and deepen one&apos;s connection to their own nature.',
+    content: 'In Svarupa&apos;s &quot;Practice&quot; section, we explore how spiritual understanding becomes embodied through consistent application. The intellectual grasp of spiritual principles, while valuable, must be complemented by direct experience. Through meditation, service, devotion, and other traditional practices, we gradually integrate higher truths into our being. This applied wisdom manifests as greater equanimity, compassion, and clarity in our daily interactions.\n\nThe path of practice transforms abstract concepts into living realities, allowing us to embody the very qualities we seek to develop. Each practice serves as a laboratory for self-discovery, revealing both our limitations and our untapped potential. Through regular engagement with these time-tested methods, we cultivate the inner conditions necessary for profound transformation and authentic spiritual growth.',
     image: '/svarupa-logo.svg'
   },
   {
@@ -58,7 +58,7 @@ const articles = [
     subtitle: 'Finding Direction',
     icon: '/icons/guide.svg',
     description: 'Growth is rarely a solitary journey. At various points in life, individuals seek guidance to refine their understanding and approach. The Guide section provides access to resources that support this process, offering pathways to deeper knowledge and self-exploration. Whether through structured courses, scriptural insights, or one-on-one mentorship, this phase helps individuals apply wisdom in a way that is personal and meaningful. In this stage, individuals move beyond theoretical understanding, engaging in guided learning that enhances their ability to integrate wisdom into their daily lives. This section within Svarupa offers tailored support—whether through practice techniques, specialized learning paths, or personal mentorship—ensuring that individuals have access to the tools and resources they need to progress on their journey with clarity and confidence.',
-    content: 'In Svarupa\'s "Guide" section, we provide orientation for navigating life\'s most challenging transitions and decisions. Drawing on the wisdom of established traditions, we discover principles that illuminate our path forward. Whether facing ethical dilemmas, relationship challenges, or existential questions, these guiding principles offer clarity without rigid prescriptions.\n\nThe guidance offered here acknowledges the complexity of modern life while remaining rooted in timeless wisdom. By applying these insights with discernment, we develop greater confidence in our ability to navigate life\'s complexities with wisdom and integrity. The articles in this section serve as companions on the journey, offering perspective during difficult times and helping to reveal the deeper meaning and purpose behind our experiences.',
+    content: 'In Svarupa&apos;s &quot;Guide&quot; section, we provide orientation for navigating life&apos;s most challenging transitions and decisions. Drawing on the wisdom of established traditions, we discover principles that illuminate our path forward. Whether facing ethical dilemmas, relationship challenges, or existential questions, these guiding principles offer clarity without rigid prescriptions.\n\nThe guidance offered here acknowledges the complexity of modern life while remaining rooted in timeless wisdom. By applying these insights with discernment, we develop greater confidence in our ability to navigate life&apos;s complexities with wisdom and integrity. The articles in this section serve as companions on the journey, offering perspective during difficult times and helping to reveal the deeper meaning and purpose behind our experiences.',
     image: '/svarupa-logo.svg'
   }
 ];
@@ -227,7 +227,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
                     </svg>
                     <h4 className="font-medium text-slate-800">Practical Strategies</h4>
                   </div>
-                  <p className="text-sm text-slate-600">Tools for managing life's challenges and building purpose</p>
+                  <p className="text-sm text-slate-600">Tools for managing life&apos;s challenges and building purpose</p>
                 </div>
               </div>
             </div>
@@ -422,7 +422,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
                     </svg>
                     <h4 className="font-medium text-slate-800">Bridge Knowledge & Experience</h4>
                   </div>
-                  <p className="text-sm text-slate-600">Providing tools to refine awareness and connect to one's nature.</p>
+                  <p className="text-sm text-slate-600">Providing tools to refine awareness and connect to one&apos;s nature.</p>
                 </div>
               </div>
             </div>
@@ -509,7 +509,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
             {article.title === 'Learn' && (
               <div className="my-6 pl-4 border-l-4 border-[#2D5CB8]">
                 <p className="italic text-lg text-slate-600 leading-relaxed">
-                  "This crucial interval builds the intellectual and moral foundation necessary for the growth phases that follow."
+                  &ldquo;This crucial interval builds the intellectual and moral foundation necessary for the growth phases that follow.&rdquo;
                 </p>
               </div>
             )}
@@ -517,7 +517,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
             {article.title === 'Grow' && (
               <div className="my-6 pl-4 border-l-4 border-[#2D5CB8]">
                 <p className="italic text-lg text-slate-600 leading-relaxed">
-                  "This stage transforms intellectual understanding into experiential wisdom."
+                  &ldquo;This stage transforms intellectual understanding into experiential wisdom.&rdquo;
                 </p>
               </div>
             )}
@@ -525,7 +525,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
             {article.title === 'Reflect' && (
               <div className="my-6 pl-4 border-l-4 border-indigo-500">
                 <p className="italic text-lg text-slate-600 leading-relaxed">
-                  "This stage is about turning inward to recognize unconscious patterns and illuminate the true self."
+                  &ldquo;This stage is about turning inward to recognize unconscious patterns and illuminate the true self.&rdquo;
                 </p>
               </div>
             )}
@@ -533,7 +533,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
             {article.title === 'Renew' && (
               <div className="my-6 pl-4 border-l-4 border-amber-500">
                 <p className="italic text-lg text-slate-600 leading-relaxed">
-                  "This period is about conscious engagement with life, free from attachment to outcomes."
+                  &ldquo;This period is about conscious engagement with life, free from attachment to outcomes.&rdquo;
                 </p>
               </div>
             )}
@@ -541,7 +541,7 @@ const ArticleRow = ({ article, index, onExploreClick }) => {
             {article.title === 'Practice' && (
               <div className="my-6 pl-4 border-l-4 border-purple-500">
                 <p className="italic text-lg text-slate-600 leading-relaxed">
-                  "Practice section serves as a bridge between knowledge and experience, providing practical tools that refine awareness and deepen one’s connection to their own nature."
+                  &ldquo;Practice section serves as a bridge between knowledge and experience, providing practical tools that refine awareness and deepen one&apos;s connection to their own nature.&rdquo;
                 </p>
               </div>
             )}
@@ -602,7 +602,7 @@ const AuthModal = ({ isOpen, article, onClose }) => {
                       </Dialog.Title>
                       <div className="mt-2">
                         <p className="text-sm text-slate-500">
-                          To continue reading "{article.title}: {article.subtitle}" and access all our premium content, please sign in or create an account.
+                          To continue reading &ldquo;{article.title}: {article.subtitle}&rdquo; and access all our premium content, please sign in or create an account.
                         </p>
                       </div>
                     </div>

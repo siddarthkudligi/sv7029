@@ -179,7 +179,7 @@ const InteractiveArticlesSection = () => {
             data-aos="fade-up"
             data-aos-delay="250"
           >
-            Explore timeless wisdom, practically applied. These articles aren't just reading; they're resources to navigate life and unlock your potential.
+            Explore timeless wisdom, practically applied. These articles aren&apos;t just reading; they&apos;re resources to navigate life and unlock your potential.
           </p>
         </div>
 

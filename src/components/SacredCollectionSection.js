@@ -22,7 +22,14 @@ const StatItem = ({ icon: Icon, count, label, itemVariants }) => {
         </div>
         {/* Text block: Number and Label */}
         <div className="sm:text-left"> {/* Ensure left alignment for text block on sm+ */}
-          <CountUp start={0} end={count} duration={2.0} separator=",">
+          <CountUp 
+            start={0} 
+            end={count} 
+            duration={2.0} 
+            separator=","
+            enableScrollSpy
+            scrollSpyOnce
+          >
             {({ countUpRef }) => (
               <span
                 ref={countUpRef}
